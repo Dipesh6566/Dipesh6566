@@ -26,4 +26,4 @@
 ---
 
 <h3 align="center">⚡ Fun Fact</h3>
-<p align="center">When I’m not coding, I’m exploring tech trends and crafting creative solutions!</p>
+<p align="center"> I Love To Code For Hours And Hours!</p>
