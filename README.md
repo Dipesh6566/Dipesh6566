@@ -4,7 +4,7 @@
 
 ---
 
-- 🎓 **Education:** 4th-semester CSE student, graduating in **2027**  
+- 🎓 **Education:** 5th-semester CSE student, graduating in **2027**  
 - 💻 **Tech Stack:**  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
