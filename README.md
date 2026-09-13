@@ -69,19 +69,19 @@
 
 ### 📌 Featured Projects
 
-#### 🗂️ [TeamFlow](https://github.com/Dipesh6566)
+#### 🗂️ [TeamFlow](https://github.com/Dipesh6566/teamflow)
 A multi-tenant SaaS task management platform built as a MERN full-stack showcase.
 `React` `Node.js` `Express` `MongoDB` `Stripe (billing)` `Socket.io (real-time collaboration)` `dnd-kit (Kanban board)`
 
-#### 🔍 [RepoLens](https://github.com/Dipesh6566/RepoLens)
+#### 🔍 [RepoLens](https://github.com/Dipesh6566/repolens)
 A GitHub repository analyzer that surfaces code complexity, contributor activity, commit trends, and language distribution through data visualizations.
 `React` `Vite` `Tailwind CSS` `Python` `FastAPI` `GitHub REST API`
 
-#### 🔎 [Mini Search Engine](https://github.com/Dipesh6566)
+#### 🔎 [Mini Search Engine](https://github.com/Dipesh6566/mini-search-engine)
 A Python-based search engine featuring web crawling, an inverted index, ranking logic, and a search interface, served via FastAPI.
 `Python` `FastAPI` `SQLite` `Web Crawling` `Inverted Indexing`
 
-#### 📧 [Spam Email Detector](https://github.com/Dipesh6566)
+#### 📧 [Spam Email Detector](https://github.com/Dipesh6566/Spam-Email-detector)
 A machine-learning-based project for classifying spam emails.
 `Python` `Machine Learning`
 
